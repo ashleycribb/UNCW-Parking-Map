@@ -6,15 +6,11 @@ Use this template if you wish to create a Search-and-Filter map that turns on/of
 
 ##Demos
 Toggle display between map view and sortable list view
-- http://jackdougherty.github.io/fusion-point-polygon-list/
+- http://ashleycribb.github.io/UNCW-Parking-Map/
 
 Display both map view and sortable list
 - http://jackdougherty.github.io/fusion-point-polygon-list/index_both.html
 
-##To Do
-Update this template from Derek Eder's most current version
-
-##Create your own with this template
 
 See tutorial in Fusion Tables template section of  *Data Visualization for All* book at http://DataVizForAll.org
 
@@ -31,10 +27,4 @@ General steps:
 - index.html (to toggle between map and sortable list) or index_both.html (to display both at same time)
 - maps_lib.js (located inside the js folder)
 
-*TO DO* document steps in the display table results section of the code
 
-5) Host everything on the web (such as a GitHub repository gh-pages branch)
-
-
-
-Coming soon: display dynamic polygon legend, similar to http://chicagobuildings.org/
